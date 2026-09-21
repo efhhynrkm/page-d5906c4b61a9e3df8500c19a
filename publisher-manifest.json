@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ca61d32ac88e7f38bc51a130",
+  "owner": "efhhynrkm",
+  "repo": "page-d5906c4b61a9e3df8500c19a",
+  "title": "Horizon",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d5906c4b61a9e3df8500c19a",
+      "a": "Horizon",
+      "b": "2027最新官网",
+      "entity": "Horizon",
+      "brand": "Horizon",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "abbeb63cde72563fe4bf59c089fbb2ba3d56777a0785d0dc20ab7a9d65207d69",
+      "content": {
+        "primary_entity": "Horizon",
+        "keyword1": "Horizon",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Horizon 提供多平台客户端配置文件，按设备类型导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选择适合自己流量与设备数量的套餐，按客户端说明导入订阅，即可开始使用 Horizon 加速服务。",
+          "AI_CLOSING_TITLE": "开启 Horizon 加速",
+          "AI_DESCRIPTION": "，Horizon 按流量与设备数量划分三档套餐，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并配备 IPLC 专线，团队版每月 1000GB、支持 20 台设备。客户端覆盖常见桌面与移动系统，导入订阅后即可在路由器、电脑、手机上分别使用。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量到线路类型，Horizon 的套餐设计对应不同使用场景。",
+          "AI_FEATURES_TITLE": "Horizon 套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、3 台设备；旗舰版 300GB/月、5 台设备并含 IPLC 专线；团队版 1000GB/月、20 台设备。",
+          "AI_FEATURE_TEXT_2": "同一订阅可在手机、电脑、路由器等设备分别导入客户端，不同平台按各自文档配置。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付价格为月付的十个月，适合长期使用的用户降低月度成本。",
+          "AI_FEATURE_TITLE_1": "按需选档",
+          "AI_FEATURE_TITLE_2": "多端适配",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入，三步即可开始使用 Horizon。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Horizon 面向跨境访问与游戏加速场景，提供基础版、旗舰版与团队版三档套餐，按流量和设备数量区分，支持常见桌面与移动客户端。",
+          "AI_HERO_SUBTITLE": "跨境加速，按需选档",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付仅需十个月价格",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版适合多设备与游戏需求，团队版适合多人共享与高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版、团队版中选择合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的设备数量与线路类型，确认路由器、电脑或手机能否满足使用条件。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅信息，完成后即可在设备上使用 Horizon 加速。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "Horizon 加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按需选择即可。",
+          "AI_FAQ_ANSWER_2": "年付方案按月均成本更低，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，适合长期使用。",
+          "AI_FAQ_ANSWER_3": "订阅获取后，根据设备类型选用对应客户端，导入订阅链接完成配置。不同客户端的设置方式可查阅其文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版配备 IPLC 专线节点，针对游戏延迟优化；团队版提供 VIP 高带宽节点，适合高流量或多人共享场景。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供企业定制路由与专属客户经理服务，方便统一管理多人连接需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Horizon 各套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "年付和月付相比有什么优势？",
+          "AI_FAQ_QUESTION_3": "订阅后如何在不同设备上配置？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_5": "团队版能否满足多人同时使用的需求？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6ozsyk.cn",
+    "host": "6ozsyk.cn"
+  },
+  "file_hashes": {
+    "index.html": "b547dc1afd049703bdff7e6f24e9f94acbbf68e785b3d63ef8088b396dbdc956",
+    "sitemap.xml": "6851b504b53f63030ef86bbd7a13071fa09dc56cf7c03e0c1032b94b1626c24b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c6b945ad0e5ec7ab8e94c65be14d812682246b30a23b8e11d11272cbe91c3bf2",
+    "robots.txt": "fc12bb153c1ae1882634ccde782924fa8d4746a572ca1062737bd04bde2b0b95",
+    "654f91e39ae39bb960ab8973160f1d80.txt": "5afe5ebed18c1f68c861e59eb17bfce43433f23fde179e87d29e36dce83453af"
+  },
+  "revision": "3dec721a8d975e69b803872a5728cc402dd642a1f0e6559b827350922941e62c"
+}
